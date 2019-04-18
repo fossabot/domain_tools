@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjia3ep%2Fdomain_tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjia3ep%2Fdomain_tools?ref=badge_shield)
+
 ==========================================
 Tools to parse and import domain structure
 ==========================================
@@ -39,3 +41,7 @@ Parameter `field_bindings` should contain values in the following format:
 Note, that you can override username/password from the command line. If the
 password is `*` (whether in the settings file or in command line parameter) it
 will be requested interactively.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjia3ep%2Fdomain_tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjia3ep%2Fdomain_tools?ref=badge_large)
